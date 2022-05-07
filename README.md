@@ -15,3 +15,6 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 - HTML
 - CSS
 - JavaScript
+
+# Lesson Learned:
+By creating a Rock Paper Scissors game, I got a good grasp on the concepts of utilizing functions like random numbers, conditionals, and the most intuitive algorithm for determining the state of the game: string comparison.
