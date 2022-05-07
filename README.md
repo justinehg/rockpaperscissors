@@ -7,9 +7,9 @@ The legendary game determining the winner through the move of rock, paper, or sc
 # Description:
 If the player wins, they gain 1 point. If the computer wins, the player loses one point.
 
-Paper beats Rock
-Rock beats Scissors
-Scissors beats Paper
+- Paper beats Rock
+- Rock beats Scissors
+- Scissors beats Paper
 
 # Technologies Used: 
 - HTML
