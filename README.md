@@ -2,6 +2,10 @@
 
 Link to project: https://jh-rps.netlify.app
 
+Quick Demo: 
+
+![Rock Paper Scissors](https://user-images.githubusercontent.com/101066358/194478565-65753cf5-7bc5-47fc-af62-12e636b4fb95.gif)
+
 The legendary game determining the winner through the move of rock, paper, or scissor.
 
 # Description:
