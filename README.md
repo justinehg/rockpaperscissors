@@ -1,8 +1,6 @@
 # Player vs Computer: Rock, Paper, Scissors 
 
-Link to project: https://jh-rps.netlify.app
-
-Quick Demo: 
+Live Demo: https://jh-rps.netlify.app
 
 ![Rock Paper Scissors](https://user-images.githubusercontent.com/101066358/194478565-65753cf5-7bc5-47fc-af62-12e636b4fb95.gif)
 
